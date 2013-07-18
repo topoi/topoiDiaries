@@ -11,6 +11,14 @@
 ** Verteilung der Diaries über die Tage
 *** http://bl.ocks.org/topoi/raw/6028339/
 
+** Verteilung der Relation zwischen den zwei betrachteten Objekten
+*** http://bl.ocks.org/TopoiMedusa/raw/6009044/
+
+** Verteilung der Nachtphasen
+*** http://bl.ocks.org/TopoiMedusa/raw/6009053/
+
+** Verteilung der Orientierung 
+*** http://bl.ocks.org/TopoiMedusa/raw/6009064/
 
 * Auffälligkeiten:
 ** "middle of the night" nur für Sternenbilder (eine Ausnahme)
