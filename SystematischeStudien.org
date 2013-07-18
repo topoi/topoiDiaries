@@ -38,7 +38,7 @@
 
 * Sonstiges
 ** To Do
-*** 
+*** noch genug
 
 ** Auffälligkeiten:
 *** "middle of the night" nur für Sternenbilder (eine Ausnahme)
