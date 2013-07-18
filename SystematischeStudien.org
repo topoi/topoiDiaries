@@ -22,6 +22,20 @@
 *** Verteilung der Orientierung 
 **** http://bl.ocks.org/TopoiMedusa/raw/6009064/
 
+**  Monatsverteilungen abhängig von einem Parameter
+*** für "beginning of night"
+**** http://bl.ocks.org/topoi/raw/6028668/cc77d47e698a3d797d6ef82b0d079c0acb3f88df/
+
+*** für "first part of night"
+**** http://bl.ocks.org/topoi/raw/6028668/3e6386940bca64265685ab1af1fdb2947536a3c4/
+
+*** für "middle part of night"
+**** http://bl.ocks.org/topoi/raw/6028668/c2d96b9c56e05c7ff8319ba8a490b57a60da594f/
+
+*** für "last part of night"
+**** http://bl.ocks.org/topoi/raw/6028668/9de1b4bc1ff0390cb5c7a81fbc121f9dcd58fdd9/
+
+
 * Sonstiges
 ** To Do
 *** 
