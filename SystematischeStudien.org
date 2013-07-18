@@ -4,7 +4,7 @@
 
 ** erste allgemeine Statistiken:
 *** Verteilung der Diaries über die Jahre
-**** http://bl.ocks.org/topoi/raw/6028044/
+**** http://bl.ocks.org/topoi/raw/6028044/786a1411585a4c5b9a7c95b39082dc2605b87311/
 
 *** Verteilung der Diaries über die Monate
 **** Balkendiagramm: http://bl.ocks.org/topoi/raw/6028303/
