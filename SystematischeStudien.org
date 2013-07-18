@@ -35,7 +35,8 @@
 *** Monatsverteilung für "last part of night"
 **** http://bl.ocks.org/topoi/raw/6028668/9de1b4bc1ff0390cb5c7a81fbc121f9dcd58fdd9/
 
-** Monatsverteilung abhängig von der Orientierung am Himmel
+** Monatsverteilung abhängog von der Orientierung am Himmel
+
 *** Monatsverteilung für "passed to the east"
 **** http://bl.ocks.org/topoi/raw/6028771/
 
@@ -48,9 +49,20 @@
 *** Monatsverteilung für "back to the west"
 **** http://bl.ocks.org/topoi/raw/6028835/
 
+** Monatsverteilung abhängig von der Relation zwischen den beiden Objekten
+*** Monatsverteilung für "above"
+**** http://bl.ocks.org/topoi/raw/6028867/
+*** Monatsverteilung für "below"
+**** http://bl.ocks.org/topoi/raw/6028872/
 
+*** Monatsverteilung für "behind"
+**** https://gist.github.com/topoi/6028882/864184a48bfa540189bfe9984fcec79b9e8d177c
 
+*** Monatsverteilung für "in front of"
+**** http://bl.ocks.org/topoi/raw/6028889/
 
+*** Monatsverteilung für "is standing in"
+**** http://bl.ocks.org/topoi/raw/6028894/
 
 
 * Sonstiges
