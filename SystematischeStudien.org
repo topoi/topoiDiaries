@@ -5,7 +5,8 @@
 *** http://bl.ocks.org/topoi/raw/6028044/
 
 ** Häufigkeitsverteilung der Ereignisse über die Monate
-*** http://bl.ocks.org/TopoiMedusa/raw/6009025/
+*** Balkendiagramm: http://bl.ocks.org/topoi/raw/6028303/
+*** Tortendiagramm: http://bl.ocks.org/TopoiMedusa/raw/6009025/
 
 
 
