@@ -56,7 +56,7 @@
 **** http://bl.ocks.org/topoi/raw/6028872/
 
 *** Monatsverteilung für "behind"
-**** https://gist.github.com/topoi/6028882/864184a48bfa540189bfe9984fcec79b9e8d177c
+**** http://bl.ocks.org/topoi/raw/6028882/864184a48bfa540189bfe9984fcec79b9e8d177c/
 
 *** Monatsverteilung für "in front of"
 **** http://bl.ocks.org/topoi/raw/6028889/
