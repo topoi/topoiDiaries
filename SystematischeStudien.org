@@ -22,7 +22,7 @@
 *** Verteilung der Orientierung 
 **** http://bl.ocks.org/TopoiMedusa/raw/6009064/
 
-**  Monatsverteilungen abhängig von einem Parameter
+**  Monatsverteilungen abhängig von der Nachtphase
 *** Monatsverteilung für "beginning of night"
 **** http://bl.ocks.org/topoi/raw/6028668/cc77d47e698a3d797d6ef82b0d079c0acb3f88df/
 
@@ -34,6 +34,23 @@
 
 *** Monatsverteilung für "last part of night"
 **** http://bl.ocks.org/topoi/raw/6028668/9de1b4bc1ff0390cb5c7a81fbc121f9dcd58fdd9/
+
+** Monatsverteilung abhängig von der Orientierung am Himmel
+*** Monatsverteilung für "passed to the east"
+**** http://bl.ocks.org/topoi/raw/6028771/
+
+*** Monatsverteilung für "low to the south"
+**** http://bl.ocks.org/topoi/raw/6028822/
+
+*** Monatsverteilung für "high to the north"
+**** http://bl.ocks.org/topoi/raw/6028826/
+
+*** Monatsverteilung für "back to the west"
+**** http://bl.ocks.org/topoi/raw/6028835/
+
+
+
+
 
 
 * Sonstiges
