@@ -35,7 +35,7 @@
 *** Monatsverteilung für "last part of night"
 **** http://bl.ocks.org/topoi/raw/6028668/9de1b4bc1ff0390cb5c7a81fbc121f9dcd58fdd9/
 
-** Monatsverteilung abhängog von der Orientierung am Himmel
+** Monatsverteilung abhängig von der Orientierung am Himmel
 
 *** Monatsverteilung für "passed to the east"
 **** http://bl.ocks.org/topoi/raw/6028771/
