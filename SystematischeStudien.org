@@ -1,8 +1,12 @@
 * Allgemeine systematische Studien zu den Diaries
 ** Tabelle mit allen 4942 Diaries
 *** http://bl.ocks.org/TopoiMedusa/raw/6009082/
+**Verteilung der Diaries über die Jahre
+*** http://bl.ocks.org/topoi/raw/6028044/
+
 ** Häufigkeitsverteilung der Ereignisse über die Monate
 *** http://bl.ocks.org/TopoiMedusa/raw/6009025/
+
 
 
 * Auffälligkeiten:
