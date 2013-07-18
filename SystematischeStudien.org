@@ -4,10 +4,12 @@
 ** Verteilung der Diaries über die Jahre
 *** http://bl.ocks.org/topoi/raw/6028044/
 
-** Häufigkeitsverteilung der Ereignisse über die Monate
+** Verteilung der Diaries über die Monate
 *** Balkendiagramm: http://bl.ocks.org/topoi/raw/6028303/
 *** Tortendiagramm: http://bl.ocks.org/TopoiMedusa/raw/6009025/
 
+** Verteilung der Diaries über die Tage
+*** http://bl.ocks.org/topoi/raw/6028339/
 
 
 * Auffälligkeiten:
