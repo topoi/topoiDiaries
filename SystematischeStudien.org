@@ -6,5 +6,5 @@
 
 
 * Auffälligkeiten:
-** "middle of the night" nur für Sternenbilder
-** kein end of the night
+** "middle of the night" nur für Sternenbilder (eine Ausnahme)
+** kein "end of the night"
