@@ -1,25 +1,31 @@
 * Allgemeine systematische Studien zu den Diaries
 ** Tabelle mit allen 4942 Diaries
 *** http://bl.ocks.org/TopoiMedusa/raw/6009082/
-** Verteilung der Diaries über die Jahre
-*** http://bl.ocks.org/topoi/raw/6028044/
 
-** Verteilung der Diaries über die Monate
-*** Balkendiagramm: http://bl.ocks.org/topoi/raw/6028303/
-*** Tortendiagramm: http://bl.ocks.org/TopoiMedusa/raw/6009025/
+** erste allgemeine Statistiken:
+*** Verteilung der Diaries über die Jahre
+**** http://bl.ocks.org/topoi/raw/6028044/
 
-** Verteilung der Diaries über die Tage
-*** http://bl.ocks.org/topoi/raw/6028339/
+*** Verteilung der Diaries über die Monate
+**** Balkendiagramm: http://bl.ocks.org/topoi/raw/6028303/
+**** Tortendiagramm: http://bl.ocks.org/TopoiMedusa/raw/6009025/
 
-** Verteilung der Relation zwischen den zwei betrachteten Objekten
-*** http://bl.ocks.org/TopoiMedusa/raw/6009044/
+*** Verteilung der Diaries über die Tage
+**** http://bl.ocks.org/topoi/raw/6028339/
 
-** Verteilung der Nachtphasen
-*** http://bl.ocks.org/TopoiMedusa/raw/6009053/
+*** Verteilung der Relation zwischen den zwei betrachteten Objekten
+**** http://bl.ocks.org/TopoiMedusa/raw/6009044/
 
-** Verteilung der Orientierung 
-*** http://bl.ocks.org/TopoiMedusa/raw/6009064/
+*** Verteilung der Nachtphasen
+**** http://bl.ocks.org/TopoiMedusa/raw/6009053/
 
-* Auffälligkeiten:
-** "middle of the night" nur für Sternenbilder (eine Ausnahme)
-** kein "end of the night"
+*** Verteilung der Orientierung 
+**** http://bl.ocks.org/TopoiMedusa/raw/6009064/
+
+* Sonstiges
+** To Do
+*** 
+
+** Auffälligkeiten:
+*** "middle of the night" nur für Sternenbilder (eine Ausnahme)
+***  kein "end of the night"
