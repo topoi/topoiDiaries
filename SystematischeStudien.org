@@ -1,4 +1,8 @@
 * Allgemeine systematische Studien zu den Diaries
+
+** Anmerkung: Sammlung von Links zur Systematik der astronomischen Diaries in Kombination mit Wetterbeobachtungen
+
+
 ** Tabelle mit allen 4942 Diaries
 *** http://bl.ocks.org/TopoiMedusa/raw/6009082/
 
