@@ -20,10 +20,10 @@
 **** http://bl.ocks.org/topoi/raw/6039194/
 
 *** Verteilung der Wetterbeobachtungen über die Monate
-****
+**** http://bl.ocks.org/topoi/raw/6039241/
 
 *** Verteilung der Wetterbeobachtungen über die Tage
-****
+**** http://bl.ocks.org/topoi/raw/6039257/
 
 
 *** Verteilung der Relation zwischen den zwei betrachteten Objekten
