@@ -2,6 +2,9 @@
 ** Tabelle mit allen 4942 Diaries
 *** http://bl.ocks.org/TopoiMedusa/raw/6009082/
 
+** Tabelle mit allen Wetterbeobachtungen
+*** 
+
 ** erste allgemeine Statistiken:
 *** Verteilung der Diaries über die Jahre
 **** http://bl.ocks.org/topoi/raw/6028044/786a1411585a4c5b9a7c95b39082dc2605b87311/
@@ -12,6 +15,16 @@
 
 *** Verteilung der Diaries über die Tage
 **** http://bl.ocks.org/topoi/raw/6028339/
+
+*** Verteilung der Wetterbeobachtungen über die Jahre
+**** http://bl.ocks.org/topoi/raw/6039194/
+
+*** Verteilung der Wetterbeobachtungen über die Monate
+****
+
+*** Verteilung der Wetterbeobachtungen über die Tage
+****
+
 
 *** Verteilung der Relation zwischen den zwei betrachteten Objekten
 **** http://bl.ocks.org/TopoiMedusa/raw/6009044/
