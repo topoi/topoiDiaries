@@ -78,6 +78,21 @@
 **** http://bl.ocks.org/topoi/raw/6028894/
 
 
+** Erste Kombinationen aus Wetter und astronomischen Daten
+*** "Beginning of night" bei bewölkten Himmel
+**** http://bl.ocks.org/topoi/raw/6039563/
+
+*** "First part of night" bei bewölten Himmel
+**** http://bl.ocks.org/topoi/raw/6039584
+
+*** "Middle part of night" bei bewölten Himmel
+**** http://bl.ocks.org/topoi/raw/6039597
+
+*** "Last part of night" bei bewölten Himmel
+**** http://bl.ocks.org/topoi/raw/6039605
+
+
+
 * Sonstiges
 ** To Do
 *** noch genug
